@@ -1,0 +1,103 @@
+Fund Ticker,Security Identifier,Holding Ticker,Shares/Par Value,MarketValue,Weight,Name,Class of Shares,Sector,Date
+QQQ,037833100,AAPL ,"138,195,640","18,572,112,059.60",11.316,Apple Inc,Common Stock,Information Technology,04/27/2021
+QQQ,594918104,MSFT ,"62,085,683","16,264,586,375.51",9.910,Microsoft Corp,Common Stock,Information Technology,04/27/2021
+QQQ,023135106,AMZN ,"4,145,261","14,166,139,299.23",8.631,Amazon.com Inc,Common Stock,Consumer Discretionary,04/27/2021
+QQQ,88160R101,TSLA ,"9,778,045","6,890,979,433.30",4.199,Tesla Inc,Common Stock,Consumer Discretionary,04/27/2021
+QQQ,02079K107,GOOG ,"2,696,397","6,220,911,446.64",3.790,Alphabet Inc,Common Stock,Communication Services,04/27/2021
+QQQ,30303M102,FB ,"19,801,031","6,010,998,980.67",3.663,Facebook Inc,Common Stock,Communication Services,04/27/2021
+QQQ,02079K305,GOOGL ,"2,475,643","5,671,648,600.14",3.456,Alphabet Inc,Common Stock,Communication Services,04/27/2021
+QQQ,67066G104,NVDA ,"7,766,427","4,778,449,540.29",2.912,NVIDIA Corp,Common Stock,Information Technology,04/27/2021
+QQQ,70450Y103,PYPL ,"14,670,696","3,943,776,498.72",2.403,PayPal Holdings Inc,Common Stock,Information Technology,04/27/2021
+QQQ,20030N101,CMCSA ,"57,260,989","3,109,271,702.70",1.894,Comcast Corp,Common Stock,Communication Services,04/27/2021
+QQQ,00724F101,ADBE ,"5,996,404","3,102,059,717.28",1.890,Adobe Inc,Common Stock,Information Technology,04/27/2021
+QQQ,458140100,INTC ,"50,894,872","2,950,375,729.84",1.798,Intel Corp,Common Stock,Information Technology,04/27/2021
+QQQ,64110L106,NFLX ,"5,547,842","2,804,711,523.10",1.709,Netflix Inc,Common Stock,Communication Services,04/27/2021
+QQQ,17275R102,CSCO ,"52,883,887","2,716,645,275.19",1.655,Cisco Systems Inc/Delaware,Common Stock,Information Technology,04/27/2021
+QQQ,713448108,PEP ,"17,281,540","2,469,359,250.60",1.505,PepsiCo Inc,Common Stock,Consumer Staples,04/27/2021
+QQQ,11135F101,AVGO ,"5,113,567","2,384,711,970.45",1.453,Broadcom Inc,Common Stock,Information Technology,04/27/2021
+QQQ,882508104,TXN ,"11,527,289","2,192,605,640.69",1.336,Texas Instruments Inc,Common Stock,Information Technology,04/27/2021
+QQQ,872590104,TMUS ,"15,567,934","2,069,289,787.28",1.261,T-Mobile US Inc,Common Stock,Communication Services,04/27/2021
+QQQ,22160K105,COST ,"5,548,603","2,054,148,316.63",1.252,Costco Wholesale Corp,Common Stock,Consumer Staples,04/27/2021
+QQQ,747525103,QCOM ,"14,229,990","1,963,880,919.90",1.197,QUALCOMM Inc,Common Stock,Information Technology,04/27/2021
+QQQ,031162100,AMGN ,"7,234,879","1,845,834,679.27",1.125,Amgen Inc,Common Stock,Health Care,04/27/2021
+QQQ,855244109,SBUX ,"14,747,404","1,712,910,974.60",1.044,Starbucks Corp,Common Stock,Consumer Discretionary,04/27/2021
+QQQ,16119P108,CHTR ,"2,426,799","1,585,961,682.48",0.966,Charter Communications Inc,Common Stock,Communication Services,04/27/2021
+QQQ,038222105,AMAT ,"11,495,142","1,572,305,522.76",0.958,Applied Materials Inc,Common Stock,Information Technology,04/27/2021
+QQQ,461202103,INTU ,"3,430,268","1,427,403,120.16",0.870,Intuit Inc,Common Stock,Information Technology,04/27/2021
+QQQ,007903107,AMD ,"15,173,631","1,292,945,097.51",0.788,Advanced Micro Devices Inc,Common Stock,Information Technology,04/27/2021
+QQQ,46120E602,ISRG ,"1,474,554","1,270,151,324.52",0.774,Intuitive Surgical Inc,Common Stock,Health Care,04/27/2021
+QQQ,09857L108,BKNG ,"513,123","1,264,412,040.45",0.770,Booking Holdings Inc,Common Stock,Consumer Discretionary,04/27/2021
+QQQ,595112103,MU ,"14,012,991","1,253,602,174.86",0.764,Micron Technology Inc,Common Stock,Information Technology,04/27/2021
+QQQ,512807108,LRCX ,"1,790,181","1,154,451,923.28",0.703,Lam Research Corp,Common Stock,Information Technology,04/27/2021
+QQQ,053015103,ADP ,"5,360,584","1,050,084,799.76",0.640,Automatic Data Processing Inc,Common Stock,Information Technology,04/27/2021
+QQQ,609207105,MDLZ ,"17,688,745","1,038,683,106.40",0.633,Mondelez International Inc,Common Stock,Consumer Staples,04/27/2021
+QQQ,337738108,FISV ,"8,386,071","1,020,249,397.86",0.622,Fiserv Inc,Common Stock,Information Technology,04/27/2021
+QQQ,375558103,GILD ,"15,740,647","1,017,947,641.49",0.620,Gilead Sciences Inc,Common Stock,Health Care,04/27/2021
+QQQ,58733R102,MELI ,"624,651","1,002,527,375.94",0.611,MercadoLibre Inc,Common Stock,Consumer Discretionary,04/27/2021
+QQQ,98980L101,ZM ,"2,934,183","978,520,688.67",0.596,Zoom Video Communications Inc,Common Stock,Information Technology,04/27/2021
+QQQ,126408103,CSX ,"9,551,490","973,487,860.80",0.593,CSX Corp,Common Stock,Industrials,04/27/2021
+QQQ,60770K107,MRNA ,"5,007,638","918,450,885.58",0.560,Moderna Inc,Common Stock,Health Care,04/27/2021
+QQQ,00507V109,ATVI ,"9,704,912","888,969,939.20",0.542,Activision Blizzard Inc,Common Stock,Communication Services,04/27/2021
+QQQ,052769106,ADSK ,"2,754,462","820,471,595.94",0.500,Autodesk Inc,Common Stock,Information Technology,04/27/2021
+QQQ,47215P106,JD ,"10,405,437","816,410,587.02",0.497,JD.com Inc ADR,American Depository Receipt,Consumer Discretionary,04/27/2021
+QQQ,452327109,ILMN ,"1,827,641","755,820,935.55",0.461,Illumina Inc,Common Stock,Health Care,04/27/2021
+QQQ,032654105,ADI ,"4,620,867","737,259,329.85",0.449,Analog Devices Inc,Common Stock,Information Technology,04/27/2021
+QQQ,056752108,BIDU ,"3,399,262","735,600,296.80",0.448,Baidu Inc ADR,American Depository Receipt,Communication Services,04/27/2021
+QQQ,N6596X109,NXPI ,"3,469,969","705,791,694.60",0.430,NXP Semiconductors NV,Common Stock,Information Technology,04/27/2021
+QQQ,92532F100,VRTX ,"3,256,402","701,852,323.06",0.428,Vertex Pharmaceuticals Inc,Common Stock,Health Care,04/27/2021
+QQQ,N07059210,ASML ,"973,706","655,119,133.86",0.399,ASML Holding NV,American Depository Receipt - NY,Information Technology,04/27/2021
+QQQ,75886F107,REGN ,"1,318,767","648,582,798.27",0.395,Regeneron Pharmaceuticals Inc,Common Stock,Health Care,04/27/2021
+QQQ,61174X109,MNST ,"6,612,895","641,583,072.90",0.391,Monster Beverage Corp,Common Stock,Consumer Staples,04/27/2021
+QQQ,482480100,KLAC ,"1,929,990","637,842,395.10",0.389,KLA Corp,Common Stock,Information Technology,04/27/2021
+QQQ,49271V100,KDP ,"17,627,989","625,969,889.39",0.381,Keurig Dr Pepper Inc,Common Stock,Consumer Staples,04/27/2021
+QQQ,016255101,ALGN ,"991,207","616,292,864.32",0.376,Align Technology Inc,Common Stock,Health Care,04/27/2021
+QQQ,500754106,KHC ,"15,322,002","614,412,280.20",0.374,Kraft Heinz Co/The,Common Stock,Consumer Staples,04/27/2021
+QQQ,571903202,MAR ,"4,063,733","608,503,379.42",0.371,Marriott International Inc/MD,Common Stock,Consumer Discretionary,04/27/2021
+QQQ,722304102,PDD ,"4,327,518","606,198,721.44",0.369,Pinduoduo Inc ADR,American Depository Receipt,Consumer Discretionary,04/27/2021
+QQQ,45168D104,IDXX ,"1,070,061","596,601,809.94",0.364,IDEXX Laboratories Inc,Common Stock,Health Care,04/27/2021
+QQQ,98138H101,WDAY ,"2,254,696","589,219,705.68",0.359,Workday Inc,Common Stock,Information Technology,04/27/2021
+QQQ,778296103,ROST ,"4,465,265","576,778,280.05",0.351,Ross Stores Inc,Common Stock,Consumer Discretionary,04/27/2021
+QQQ,931427108,WBA ,"10,823,346","568,333,898.46",0.346,Walgreens Boots Alliance Inc,Common Stock,Consumer Staples,04/27/2021
+QQQ,30161N101,EXC ,"12,229,976","544,723,131.04",0.332,Exelon Corp,Common Stock,Utilities,04/27/2021
+QQQ,025537101,AEP ,"6,220,708","542,445,737.60",0.331,American Electric Power Co Inc,Common Stock,Utilities,04/27/2021
+QQQ,256163106,DOCU ,"2,336,895","537,532,587.90",0.328,DocuSign Inc,Common Stock,Information Technology,04/27/2021
+QQQ,550021109,LULU ,"1,567,379","531,780,347.12",0.324,Lululemon Athletica Inc,Common Stock,Consumer Discretionary,04/27/2021
+QQQ,57667L107,MTCH ,"3,369,248","531,667,334.40",0.324,Match Group Inc,Common Stock,Communication Services,04/27/2021
+QQQ,192446102,CTSH ,"6,646,748","531,341,035.12",0.324,Cognizant Technology Solutions Corp,Common Stock,Information Technology,04/27/2021
+QQQ,595017104,MCHP ,"3,372,931","531,202,903.19",0.324,Microchip Technology Inc,Common Stock,Information Technology,04/27/2021
+QQQ,278642103,EBAY ,"8,523,523","525,901,369.10",0.320,eBay Inc,Common Stock,Consumer Discretionary,04/27/2021
+QQQ,285512109,EA ,"3,602,944","516,878,346.24",0.315,Electronic Arts Inc,Common Stock,Communication Services,04/27/2021
+QQQ,09062X103,BIIB ,"1,908,175","510,226,913.25",0.311,Biogen Inc,Common Stock,Health Care,04/27/2021
+QQQ,252131107,DXCM ,"1,204,730","508,034,641.00",0.310,Dexcom Inc,Common Stock,Health Care,04/27/2021
+QQQ,871607107,SNPS ,"1,908,650","480,407,205.00",0.293,Synopsys Inc,Common Stock,Information Technology,04/27/2021
+QQQ,98389B100,XEL ,"6,734,950","471,446,500.00",0.287,Xcel Energy Inc,Common Stock,Utilities,04/27/2021
+QQQ,67103H107,ORLY ,"879,449","468,438,509.85",0.285,O'Reilly Automotive Inc,Common Stock,Consumer Discretionary,04/27/2021
+QQQ,127387108,CDNS ,"3,494,537","463,899,786.75",0.283,Cadence Design Systems Inc,Common Stock,Information Technology,04/27/2021
+QQQ,172908105,CTAS ,"1,315,683","460,686,402.45",0.281,Cintas Corp,Common Stock,Industrials,04/27/2021
+QQQ,015351109,ALXN ,"2,753,936","460,072,548.16",0.280,Alexion Pharmaceuticals Inc,Common Stock,Health Care,04/27/2021
+QQQ,704326107,PAYX ,"4,517,401","447,764,787.12",0.273,Paychex Inc,Common Stock,Information Technology,04/27/2021
+QQQ,679295105,OKTA ,"1,518,441","429,718,803.00",0.262,Okta Inc,Common Stock,Information Technology,04/27/2021
+QQQ,64110W102,NTES ,"3,753,027","419,213,115.90",0.255,NetEase Inc ADR,American Depository Receipt,Communication Services,04/27/2021
+QQQ,983919101,XLNX ,"3,072,470","410,512,716.70",0.250,Xilinx Inc,Common Stock,Information Technology,04/27/2021
+QQQ,83088M102,SWKS ,"2,065,599","407,749,242.60",0.248,Skyworks Solutions Inc,Common Stock,Information Technology,04/27/2021
+QQQ,03662Q105,ANSS ,"1,086,632","405,867,918.32",0.247,ANSYS Inc,Common Stock,Information Technology,04/27/2021
+QQQ,693718108,PCAR ,"4,345,890","396,692,839.20",0.242,PACCAR Inc,Common Stock,Industrials,04/27/2021
+QQQ,G06242104,TEAM ,"1,666,247","393,434,241.64",0.240,Atlassian Corp PLC,Common Stock,Information Technology,04/27/2021
+QQQ,573874104,MRVL ,"8,415,234","386,511,697.62",0.236,Marvell Technology Inc,Common Stock,Information Technology,04/27/2021
+QQQ,92345Y106,VRSK ,"2,039,221","381,742,171.20",0.233,Verisk Analytics Inc,Common Stock,Industrials,04/27/2021
+QQQ,311900104,FAST ,"7,194,456","373,464,210.96",0.228,Fastenal Co,Common Stock,Industrials,04/27/2021
+QQQ,217204106,CPRT ,"2,960,154","366,970,291.38",0.224,Copart Inc,Common Stock,Industrials,04/27/2021
+QQQ,256746108,DLTR ,"2,946,132","338,834,641.32",0.206,Dollar Tree Inc,Common Stock,Consumer Discretionary,04/27/2021
+QQQ,70614W100,PTON ,"3,302,437","337,971,402.58",0.206,Peloton Interactive Inc,Common Stock,Consumer Discretionary,04/27/2021
+QQQ,81181C104,SGEN ,"2,269,347","327,330,611.28",0.199,Seagen Inc,Common Stock,Health Care,04/27/2021
+QQQ,82968B103,SIRI ,"51,859,126","327,231,085.06",0.199,Sirius XM Holdings Inc,Common Stock,Communication Services,04/27/2021
+QQQ,57772K101,MXIM ,"3,357,563","325,415,005.96",0.198,Maxim Integrated Products Inc,Common Stock,Information Technology,04/27/2021
+QQQ,12514G108,CDW ,"1,766,103","324,062,239.47",0.197,CDW Corp/DE,Common Stock,Information Technology,04/27/2021
+QQQ,92343E102,VRSN ,"1,416,635","311,730,531.75",0.190,VeriSign Inc,Common Stock,Information Technology,04/27/2021
+QQQ,156782104,CERN ,"3,836,819","289,718,202.69",0.177,Cerner Corp,Common Stock,Health Care,04/27/2021
+QQQ,89677Q107,TCOM ,"6,599,471","259,161,226.17",0.158,Trip.com Group Ltd ADR,American Depository Receipt,Consumer Discretionary,04/27/2021
+QQQ,848637104,SPLK ,"2,025,759","258,061,439.01",0.157,Splunk Inc,Common Stock,Information Technology,04/27/2021
+QQQ,45337C102,INCY ,"2,753,880","233,060,864.40",0.142,Incyte Corp,Common Stock,Health Care,04/27/2021
+QQQ,M22465104,CHKP ,"1,756,192","208,793,666.88",0.127,Check Point Software Technologies Ltd,Common Stock,Information Technology,04/27/2021
+QQQ,35137L105,FOXA ,"4,188,197","160,324,181.16",0.098,Fox Corp,Common Stock,Communication Services,04/27/2021
+QQQ,35137L204,FOX ,"3,209,214","119,543,221.50",0.073,Fox Corp,Common Stock,Communication Services,04/27/2021
